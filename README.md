@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashwini Dagale</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=A+passionate+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Software+Developer+at+Aurionpro" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=750&lines=A+passionate+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Software+Developer+at+Aurionpro;Currently+Learning+%26+exploring+AI+%26+ML" />
 </p>
 
 
@@ -11,8 +11,9 @@
 </p>
 
 - 🎓 I completed my **B.E. in Information Technology** from Fr. Conceicao Rodrigues Institute of Technology, Navi Mumbai in 2025  
-- 💼 Currently working as a **Software Developer at Aurionpro**  
+- 💼 Working as a **Software Developer at Aurionpro**  
 - 💻 I work with **Java**, **Spring Boot**, and **Angular** to build scalable full stack applications  
+- 🤖 Learning and exploring **Artificial Intelligence & Machine Learning (AI/ML)**  
 - 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/ashwinii19/)  
 - 📫 Reach me at: **ashdagale@gmail.com**
 
