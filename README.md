@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashwini Dagale</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FFFFFF&center=true&vCenter=true&width=650&lines=A+passionate+Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Software+Developer+at+Aurionpro" />
+</p>
 
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
@@ -9,7 +11,8 @@
 </p>
 
 - 🎓 I completed my **B.E. in Information Technology** from Fr. Conceicao Rodrigues Institute of Technology, Navi Mumbai in 2025  
-- 💻 I work with **Java**, **Spring Boot**, and **Angular** to build scalable full stack web applications  
+- 💼 Currently working as a **Software Developer at Aurionpro**  
+- 💻 I work with **Java**, **Spring Boot**, and **Angular** to build scalable full stack applications  
 - 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/ashwinii19/)  
 - 📫 Reach me at: **ashdagale@gmail.com**
 
@@ -17,10 +20,25 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/ashwini-dagale-856515194" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwini-dagale-856515194" height="30" width="40" />
+    <img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:ashdagale@gmail.com">
+    <img align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
+      alt="Gmail"
+      height="30"
+      width="40" />
   </a>
 </p>
+
 
 ---
 
@@ -93,9 +111,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinii19&show_icons=true&locale=en" alt="ashwinii19" />
-</p>
+</p> -->
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinii19&" alt="ashwinii19" />
