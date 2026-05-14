@@ -12,7 +12,7 @@
 
 - 🎓 I completed my **B.E. in Information Technology** from Fr. Conceicao Rodrigues Institute of Technology, Navi Mumbai in 2025  
 - 💼 Working as a **Software Developer at Aurionpro**  
-- 💻 I work with **Java**, **Spring Boot**, and **Angular** to build scalable full stack applications  
+- 💻 I work with **Java**, **Spring Boot**, **Angular** and **MySQL** to build scalable full stack applications  
 - 🤖 Learning and exploring **Artificial Intelligence & Machine Learning (AI/ML)**  
 - 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/ashwinii19/)  
 - 📫 Reach me at: **ashdagale@gmail.com**
