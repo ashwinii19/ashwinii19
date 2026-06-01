@@ -10,12 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=ashwinii19&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinii19" />
 </p>
 
-- 🎓 I completed my **B.E. in Information Technology** from Fr. Conceicao Rodrigues Institute of Technology, Navi Mumbai in 2025  
-- 💼 Working as a **Software Developer at Aurionpro**  
-- 💻 I work with **Java**, **Spring Boot**, **Angular** and **MySQL** to build scalable full stack applications  
-- 🤖 Learning and exploring **Artificial Intelligence & Machine Learning (AI/ML)**  
-- 👨‍💻 All of my projects are available on [my GitHub profile](https://github.com/ashwinii19/)  
-- 📫 Reach me at: **ashdagale@gmail.com**
+- 🎓 B.E. in **Information Technology** from Fr. Conceicao Rodrigues Institute of Technology, Navi Mumbai (2025)
+- 💼 Currently working as a **Software Developer at Aurionpro**
+- 💻 Skilled in **Java, Spring Boot, Angular, and MySQL** for building scalable full-stack applications
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning (AI/ML)**
+- 🌐 Explore my portfolio: **https://ashwini-dagale-portfolio-zeta.vercel.app/**
+- 👨‍💻 View my projects on GitHub: **https://github.com/ashwinii19/**
+- 📫 Contact me: **ashdagale@gmail.com**
 
 ---
 
